@@ -82,13 +82,12 @@ npm test
 ---
 
 
-## 👩‍💻 Author
+| Name   | Last Name | Email              |
+| ------ | --------- | ------------------ |
+| Yesika | Perez     | yesikapr@gmail.com |
 
+[LinkedIn](https://www.linkedin.com/in/yesikaperezravelo/)
 
-| Field | Detail |
-| :--- | :--- |
-| **Name** | Yesika Perez |
-| **Email** | [yesikapr@gmail.com](mailto:yesikapr@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/yesikaperezravelo/](https://www.linkedin.com/in/yesikaperezravelo/) |
+![imagenPerfil](https://firebasestorage.googleapis.com/v0/b/productyesfitness.appspot.com/o/fitnessProducts.png?alt=media&token=673220bd-90ca-46d0-bb5e-fc13a54f5ac7)
 
 
