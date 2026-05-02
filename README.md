@@ -88,6 +88,5 @@ npm test
 
 [LinkedIn](https://www.linkedin.com/in/yesikaperezravelo/)
 
-![imagenPerfil](https://firebasestorage.googleapis.com/v0/b/productyesfitness.appspot.com/o/fitnessProducts.png?alt=media&token=673220bd-90ca-46d0-bb5e-fc13a54f5ac7)
 
 
